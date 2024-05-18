@@ -1,0 +1,65 @@
+html {
+  height: 100%;
+  width: 100%;
+    background-color: blanchedalmond;
+}
+
+img{
+    height: 370px;
+    width: 666px;
+    padding: 10px;
+    border: 2px solid cadetblue;
+}
+
+h1{
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+h4{
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+p{
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+.correct-ratio{
+    object-fit: cover;
+}
+
+div{
+    padding: 10px;
+    margin: 10px;
+}
+
+.fact-boxes{
+    border: 2px dotted cadetblue;
+
+}
+
+.links{
+    border: 2px dashed cadetblue;
+}
+
+.row{
+    display: flex;
+}
+
+.column{
+    flex: 30%;
+    padding: 5px;
+    border: 1px solid lightblue;
+    margin: 5px;
+}
+
+.fact-one{
+    background-color: #ADBFB3;
+}
+
+.fact-two{
+    background-color: #A8C7AD;
+}
+
+.fact-three{
+    background-color: #C6C798;
+}
